@@ -151,16 +151,16 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u
 #EXTINF:-1 tvg-id=" " group-title="KIKIMUSAMPO International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",CGTN Documentary
 https://livedoc.cgtn.com/500d/prog_index.m3u8
 
-#EXTINF:-1 tvg-id=" " group-title="KIKIMUSAMPO SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png",Olympic Channel
+#EXTINF:-1 tvg-id=" " group-title="⚽KIKIMUSAMPO SPORTS⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png",Olympic Channel
 https://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
 
-#EXTINF:-1 tvg-id=" " group-title="KIKIMUSAMPO SPORTS" tvg-logo="https://img.redbull.com/images/c_fill,g_auto,w_1500,h_1000/q_auto,f_auto/redbullcom/2016/10/01/1331821221085_2/red-bull-tv",RedBull TV
+#EXTINF:-1 tvg-id=" " group-title="⚽KIKIMUSAMPO SPORTS⚽" tvg-logo="https://img.redbull.com/images/c_fill,g_auto,w_1500,h_1000/q_auto,f_auto/redbullcom/2016/10/01/1331821221085_2/red-bull-tv",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF:-1 tvg-id="TVSUKAN" group-title="KIKIMUSAMPO SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/RTM_Sports.png",RTM Sports HD
+#EXTINF:-1 tvg-id="TVSUKAN" group-title="⚽KIKIMUSAMPO SPORTS⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/RTM_Sports.png",RTM Sports HD
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8
 
-#EXTINF:-1 tvg-id=" " group-title="KIKIMUSAMPO SPORTS" tvg-logo="https://tch.spott2.sportradar.com/assets/img/Tennischannel/TC-logo-green.png",Tennis Channel
+#EXTINF:-1 tvg-id=" " group-title="⚽KIKIMUSAMPO SPORTS⚽" tvg-logo="https://tch.spott2.sportradar.com/assets/img/Tennischannel/TC-logo-green.png",Tennis Channel
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="ASTRO RIA" group-title="KIKIMUSAMPO" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png",ASTRO RIA
@@ -357,7 +357,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8
 ------------------------------------------------------------------
 
 -------------------RTM SPORTS------------------------------------
-#EXTINF:-1 tvg-id="TVSUKAN" group-title="KIKIMUSAMPO SPORTS" tvg-logo="https://mediahomes.github.io/logos/sukan.png",RTM Sports HD
+#EXTINF:-1 tvg-id="TVSUKAN" group-title="⚽KIKIMUSAMPO SPORTS⚽" tvg-logo="https://mediahomes.github.io/logos/sukan.png",RTM Sports HD
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8
 ------------------------------------------------------------------
 
@@ -608,7 +608,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 #EXTINF:-1 tvg-id="123" group-title="MALAYSIA" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8
 
-#EXTINF:-1 tvg-id="111" group-title="KIKIMUSAMPO SPORTS" tvg-logo="https://mediahomes.github.io/logos/sukan.png",Sukan RTM
+#EXTINF:-1 tvg-id="111" group-title="⚽KIKIMUSAMPO SPORTS⚽" tvg-logo="https://mediahomes.github.io/logos/sukan.png",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8
 
 #EXTINF:-1 tvg-id="Androidrepublica" tvg-name="Androidrepublica" tvg-logo="https://raw.githubusercontent.com/androidrepublica/icons/master/ARMC-logo.png" tvg-chno="0" channel-id="0" group-title="MYSG",Androidrepublica
