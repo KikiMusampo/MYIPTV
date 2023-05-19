@@ -7014,7 +7014,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://deifoexkvnt11.cloudfront.net/assets/article/2019/09/17/venn-logo-blue-patternfill-horizontal_feature.png" group-title="⚽KIKIMUSAMPO SPORTS⚽", Venn
 https://venntv-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ESReSportsNetwork.us" ch-number=" " tvg-name="ESR eSports Network" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d2f4c46818164091e1fd4" group-title="⚽SPORTS⚽",ESR eSports Network 
+#EXTINF:-1 tvg-id="ESReSportsNetwork.us" ch-number=" " tvg-name="ESR eSports Network" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d2f4c46818164091e1fd4" group-title="⚽KIKIMUSAMPO SPORTS⚽",ESR eSports Network 
 https://eyeoneSports.com/ES2RA-628g.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
