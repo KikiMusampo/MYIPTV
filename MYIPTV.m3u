@@ -22,7 +22,8 @@
 
 #EXTM3U x-tvg-url=https://bit.ly/aqfadtvepg refresh="1440" max-conn="1" refresh="24"
 
-#EXTINF:-1 tvg-logo="https://github.com/KikiMusampo/MYIPTV/blob/main/bob-marley-portrait-of-the-legend-4.jpg" group-logo="https://github.com/KikiMusampo/MYIPTV/blob/main/bob-marley-portrait-of-the-legend-4.jpg" tvg-logo="https://github.com/KikiMusampo/MYIPTV/blob/main/bob-marley-portrait-of-the-legend-4.jpg", ch-number=" " tvg-name="Store" group-title="!!!❤️☢️🤡KikiMusampo🤡☢️❤️!!!",Welcome To KikiMusampo House
+group-logo="" ", ch-number=" " tvg-name="Store" group-title="!!!❤️☢️🤡KikiMusampo🤡☢️❤️!!!",Welcome To KikiMusampo House
+
 
 
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml"
