@@ -2293,7 +2293,7 @@ https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
 
 #EXTINF:-1 tvg-id="CHN" tvg-logo="https://i0.wp.com/www.siamnewsnetwork.net/wp-content/uploads/2018/05/siamnews-bw-helv-square.png" group-title="THAILAND", Siam News
 https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
-#EXTINF:-1 tvg-logo="", ch-number=" " tvg-name="Store" group-title="THAILAND",Welcome To Jepstore
+#EXTINF:-1 tvg-logo="", ch-number=" " tvg-name="Store" group-title="THAILAND",
 
 #EXTINF:-1 tvg-id="CHN" tvg-logo="https://iphone-image.apkpure.com/v2/app/e/a/a/eaa2d0ef926bb1c9ef2bc6e327a34db6.jpg" group-title="THAILAND", Srtv Online
 https://live1.thaitvstream.com/play/srtvonline/index.m3u8
@@ -2347,7 +2347,7 @@ http://210.210.155.37/session/eb840bf4-25f3-11ed-9af7-9a7dadef5b77/dr9445/h/h16/
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 http://210.210.155.37/session/e775987a-25f3-11ed-8ba5-85009179245a/dr9445/h/h15/01.m3u8
 http://210.210.155.35:80/dr9445/h/h16/02.m3u8 
-#EXTINF:-1 tvg-logo="", ch-number=" " tvg-name="Store" group-title="ENTERTAINMENT",Welcome To Jepstore
+#EXTINF:-1 tvg-logo="", ch-number=" " tvg-name="Store" group-title="ENTERTAINMENT",
 
 ##EXTINF:-1 tvg-logo="https://i.imgur.com/cyWbYaX.jpg" group-title="ENTERTAINMENT",Travel
 https://bk7l2w4nlx53-hls-live.5centscdn.com/TRAVEL/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
@@ -2760,7 +2760,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/100x100/movies.png" group-title="MOVIES",Movies!
 https://v-ny.theus6tv.tk/hls/5.2/playlist.m3u8
-#EXTINF:-1 tvg-logo="", ch-number=" " tvg-name="Store" group-title="MOVIES",Welcome To Jepstore
+#EXTINF:-1 tvg-logo="", ch-number=" " tvg-name="Store" group-title="MOVIES",
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f988934a507de00075d9ae7/colorLogoPNG.png" group-title="MOVIES",Showtime Selects
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f988934a507de00075d9ae7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -2843,7 +2843,7 @@ http://line.premiumpowers.net:80/Bianca/1234567/924740
 
 #EXTINF:-1 tvg-id="CHN" ch-number=" " tvg-name="US| 24/7 SHOWTIME 1" tvg-logo="http://logo.protv.cc/picons/logos/USA/SHOWTIME.png" group-title="LIVE  MOVIE",US| 24/7 SHOWTIME 1
 http://line.premiumpowers.net:80/Bianca/1234567/924741
-#EXTINF:-1 tvg-logo="", ch-number=" " tvg-name="Store" group-title="LIVE  MOVIE",Welcome To Jepstore
+#EXTINF:-1 tvg-logo="", ch-number=" " tvg-name="Store" group-title="LIVE  MOVIE",
 
 #EXTINF:-1 tvg-id="CHN" ch-number=" " tvg-name="US| 24/7 SHOWTIME 2" tvg-logo="http://logo.protv.cc/picons/logos/USA/SHOWTIME.png" group-title="LIVE  MOVIE",US| 24/7 SHOWTIME 2
 http://line.premiumpowers.net:80/Bianca/1234567/924742
@@ -2978,7 +2978,7 @@ http://huanqiuzhibo.cn/manifest/douyu.php?id=6763930
 
 #EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="DOUYU MOVIES",MOVIES MIX 28 (C.)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=7253343
-#EXTINF:-1 tvg-logo="", ch-number=" " tvg-name="Store" group-title="DOUYU MOVIES",Welcome To Jepstore
+#EXTINF:-1 tvg-logo="", ch-number=" " tvg-name="Store" group-title="DOUYU MOVIES",
 
 #EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="DOUYU MOVIES",MOVIES MIX 29 (C.)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=8603174
@@ -3203,7 +3203,7 @@ https://a.jsrdn.com/broadcast/20dc4269f3/+0000/high/c.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DkvWWbE.png" group-title="DOCUMENTARY",Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
-#EXTINF:-1 tvg-logo="", ch-number=" " tvg-name="Store" group-title="DOCUMENTARY",Welcome To Jepstore
+#EXTINF:-1 tvg-logo="", ch-number=" " tvg-name="Store" group-title="DOCUMENTARY",
 
 #EXTINF:-1 tvg-id="HGTV" ch-number=" " tvg-name="HGTV" ch-number="715" group-title="DOCUMENTARY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/198_144.png" ch-number="715",715 HGTV (MY)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3441,7 +3441,7 @@ https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_127.m
 http://208.86.19.13:81/14.stream/index.m3u8 
 # https://cdn.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc_2A/DisneyChannelHD.mpd
 
-#EXTINF:-1 tvg-logo="", ch-number=" " tvg-name="Store" group-title="KIDS",Welcome To Jepstore
+#EXTINF:-1 tvg-logo="", ch-number=" " tvg-name="Store" group-title="KIDS",
 
 
 #EXTINF:-1 tvg-id="DisneyJuniorSouthAfrica.za" ch-number=" " tvg-name="" tvg-logo="https://i.ibb.co/yVKvfKb/1200px-Disney-Junior-svg.png" group-title="KIDS",Disney JR
@@ -3584,7 +3584,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2102/default_primary.mpd
 #EXTINF:-1 tvg-id="TRTWorld" group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/800px-TRT_World_logo.svg.png",TRT World
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-logo="", ch-number=" " tvg-name="Store" group-title="NEWS",Welcome To Jepstore
+#EXTINF:-1 tvg-logo="", ch-number=" " tvg-name="Store" group-title="NEWS",
 
 
 #EXTINF:-1 tvg-id="513" group-title="NEWS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/533.png" ch-number="513",Al Jazeera English 
@@ -4552,7 +4552,7 @@ https://tinyurl.com/4h7ca72x
 
 #EXTINF:-1   tvg-logo="https://bit.ly/2ZE1BUW" group-title="MUSIC", H!T
 http://hitmusic.hu/hitmusic.m3u8
-#EXTINF:-1 tvg-logo="", ch-number=" " tvg-name="Store" group-title="MUSIC",Welcome To Jepstore
+#EXTINF:-1 tvg-logo="", ch-number=" " tvg-name="Store" group-title="MUSIC",
 
 #EXTINF:-1 tvg-id="" ch-number=" " tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/mm/music-channel-romania-ro.png" group-title="MUSIC",Music Channel 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
