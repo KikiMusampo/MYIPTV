@@ -178,7 +178,7 @@ https://aqfadtv.xyz/live/ria/index.mpd
 #EXTINF:-1 tvg-id="AstroPrima" tvg-name="ASTRO PRIMA HD" tvg-logo="https://telegra.ph/file/f5b251914a160518dd5f0.jpg" group-title="KIKIMUSAMPO",ASTRO PRIMA
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 
-#EXTINF:-1 tvg-id="AstroWarna" tvg-name="ASTRO WARNA HD" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="AKIKIMUSAMPO",ASTRO WARNA HD
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="ASTRO WARNA HD" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="KIKIMUSAMPO",ASTRO WARNA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
 https://aqfadtv.xyz/live/warna/index.mpd
