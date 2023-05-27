@@ -150,7 +150,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
 #EXTINF:-1 group-title="MALAYSIA" tvg-id="AstroRia.my" ch-number="104" tvg-name="Astro Ria HD" tvg-logo="https://i.imgur.com/RrIVJJY.png", 104 Astro Ria ⁽ˢᵉʳᵛᵉʳ ¹⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
-https://smt.sky4k.eu.org/live2023/index.m3u8?id=Ria
+http://tv365.me/live/8059765630/3322606439/79321.m3u8
 
 #EXTINF:-1 group-title="MALAYSIA" tvg-id="AstroRia.my" ch-number="104" tvg-name="Astro Ria HD" tvg-logo="https://i.imgur.com/RrIVJJY.png", 104 Astro Ria ⁽ˢᵉʳᵛᵉʳ ²⁾
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -178,8 +178,7 @@ https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
 #EXTINF:-1 tvg-id="AstroWarna.my" ch-number="132" tvg-name="Astro Warna HD" group-title="MALAYSIA" tvg-logo="https://i.imgur.com/JCn7Yd0.png", 132 Astro Warna 
-https://linears-playback.astro.com.my/vsg/41CgcMfSm3-YjFQavzBFqmEmxOYzB9SKhBVhJzHSqCisk=YAB9/dash-wv/jitp-linearwm/2402/manifest.mpd
-#https://channel.zeehanzgadget.com/2402.mpd
+http://tv365.me/live/8059765630/3322606439/191874.m3u8
 
 #EXTINF:-1 tvg-id="AstroWarna.my" ch-number="132" tvg-name="Astro Warna HD" group-title="MALAYSIA" tvg-logo="https://i.imgur.com/JCn7Yd0.png", 132 Astro Warna ( USE VPN SG )
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3673,7 +3672,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpEQTNZemd5TmpZdFltTTNPQzAwTXpnMExUazBZMlV0WkROaU5qWXlZV1UxTVRZMSIsIndtb3BpZCI6MzIsImV4cCI6MTY4NTUxNTk4MCwiaWF0IjoxNjg0OTExOTgwfQ.5InzYZB2iGbUPY_exXTmrrC5l_7nn8vxYsc79RVL76A"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ill6WmlaVEEyWXprdFpUZ3daQzAwT1dOaUxUaGtZek10Wm1VeFkySmxaREl6T1dRMSIsIndtb3BpZCI6MzIsImV4cCI6MTY4NTUxNTE4OSwiaWF0IjoxNjg0OTExMTg5fQ.cXkBTdKe-xkVxUNKhSm2mFyh8DT9Fu0JeuL_Z5YidrE"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"JK1H9zyM//xpYdR6pVG4gg", "kid":"G15RVjjeQkO2ukmEPQvnYw" } ], "type":"temporary" }
@@ -3681,7 +3680,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpEQTNZemd5TmpZdFltTTNPQzAwTXpnMExUazBZMlV0WkROaU5qWXlZV1UxTVRZMSIsIndtb3BpZCI6MzIsImV4cCI6MTY4NTUxNTk4MCwiaWF0IjoxNjg0OTExOTgwfQ.5InzYZB2iGbUPY_exXTmrrC5l_7nn8vxYsc79RVL76A"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ill6WmlaVEEyWXprdFpUZ3daQzAwT1dOaUxUaGtZek10Wm1VeFkySmxaREl6T1dRMSIsIndtb3BpZCI6MzIsImV4cCI6MTY4NTUxNTE4OSwiaWF0IjoxNjg0OTExMTg5fQ.cXkBTdKe-xkVxUNKhSm2mFyh8DT9Fu0JeuL_Z5YidrE"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4dQox/HKgjOabPodB1dCjg", "kid":"dIHT43OMRnaPE44gj+6Qdg" } ], "type":"temporary" }
@@ -3689,7 +3688,7 @@ https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd
 https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpEQTNZemd5TmpZdFltTTNPQzAwTXpnMExUazBZMlV0WkROaU5qWXlZV1UxTVRZMSIsIndtb3BpZCI6MzIsImV4cCI6MTY4NTUxNTk4MCwiaWF0IjoxNjg0OTExOTgwfQ.5InzYZB2iGbUPY_exXTmrrC5l_7nn8vxYsc79RVL76A"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ill6WmlaVEEyWXprdFpUZ3daQzAwT1dOaUxUaGtZek10Wm1VeFkySmxaREl6T1dRMSIsIndtb3BpZCI6MzIsImV4cCI6MTY4NTUxNTE4OSwiaWF0IjoxNjg0OTExMTg5fQ.cXkBTdKe-xkVxUNKhSm2mFyh8DT9Fu0JeuL_Z5YidrE"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" } ], "type":"temporary" }
@@ -3697,7 +3696,7 @@ https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
 https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpEQTNZemd5TmpZdFltTTNPQzAwTXpnMExUazBZMlV0WkROaU5qWXlZV1UxTVRZMSIsIndtb3BpZCI6MzIsImV4cCI6MTY4NTUxNTk4MCwiaWF0IjoxNjg0OTExOTgwfQ.5InzYZB2iGbUPY_exXTmrrC5l_7nn8vxYsc79RVL76A"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ill6WmlaVEEyWXprdFpUZ3daQzAwT1dOaUxUaGtZek10Wm1VeFkySmxaREl6T1dRMSIsIndtb3BpZCI6MzIsImV4cCI6MTY4NTUxNTE4OSwiaWF0IjoxNjg0OTExMTg5fQ.cXkBTdKe-xkVxUNKhSm2mFyh8DT9Fu0JeuL_Z5YidrE"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"EQD+KXFG99AktZlE8J5tGg", "kid":"yk9f9ORpTVS9/cm9NDhCkA" } ], "type":"temporary" }
@@ -3736,7 +3735,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5085/default_primary.mpd
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpEQTNZemd5TmpZdFltTTNPQzAwTXpnMExUazBZMlV0WkROaU5qWXlZV1UxTVRZMSIsIndtb3BpZCI6MzIsImV4cCI6MTY4NTUxNTk4MCwiaWF0IjoxNjg0OTExOTgwfQ.5InzYZB2iGbUPY_exXTmrrC5l_7nn8vxYsc79RVL76A"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ill6WmlaVEEyWXprdFpUZ3daQzAwT1dOaUxUaGtZek10Wm1VeFkySmxaREl6T1dRMSIsIndtb3BpZCI6MzIsImV4cCI6MTY4NTUxNTE4OSwiaWF0IjoxNjg0OTExMTg5fQ.cXkBTdKe-xkVxUNKhSm2mFyh8DT9Fu0JeuL_Z5YidrE"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QfI0+4hZCvOw0iQRGmG/cQ", "kid":"jx2jmTJSR+ymrN17r7lfog" } ], "type":"temporary" }
@@ -3744,7 +3743,7 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default.mpd
 https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpEQTNZemd5TmpZdFltTTNPQzAwTXpnMExUazBZMlV0WkROaU5qWXlZV1UxTVRZMSIsIndtb3BpZCI6MzIsImV4cCI6MTY4NTUxNTk4MCwiaWF0IjoxNjg0OTExOTgwfQ.5InzYZB2iGbUPY_exXTmrrC5l_7nn8vxYsc79RVL76A"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ill6WmlaVEEyWXprdFpUZ3daQzAwT1dOaUxUaGtZek10Wm1VeFkySmxaREl6T1dRMSIsIndtb3BpZCI6MzIsImV4cCI6MTY4NTUxNTE4OSwiaWF0IjoxNjg0OTExMTg5fQ.cXkBTdKe-xkVxUNKhSm2mFyh8DT9Fu0JeuL_Z5YidrE"}
 #KODIPROP:inputstream.adaptive.manifest_type=dashDREAM
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/2UXT47F1MiOjYohloVjzw", "kid":"DW0qGsjRThmxdFVlB3DNmQ" } ], "type":"temporary" }
@@ -4964,7 +4963,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
 #EXTINF:-1 group-title="ASTRO" tvg-id="AstroRia.my" ch-number="104" tvg-name="Astro Ria HD" tvg-logo="https://i.imgur.com/RrIVJJY.png", 104 Astro Ria ⁽ˢᵉʳᵛᵉʳ ¹⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
-https://smt.sky4k.eu.org/live2023/index.m3u8?id=Ria
+http://tv365.me/live/8059765630/3322606439/79321.m3u8
 
 #EXTINF:-1 group-title="ASTRO" tvg-id="AstroRia.my" ch-number="104" tvg-name="Astro Ria HD" tvg-logo="https://i.imgur.com/RrIVJJY.png", 104 Astro Ria ⁽ˢᵉʳᵛᵉʳ ²⁾
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -5007,7 +5006,7 @@ https://ucdn.starhubgo.com/bpk-tv/HubSensasiHD/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
 #EXTINF:-1 tvg-id="AstroWarna.my" ch-number="132" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://i.imgur.com/JCn7Yd0.png", 132 Astro Warna
-https://linears-playback.astro.com.my/vsg/41CgcMfSm3-YjFQavzBFqmEmxOYzB9SKhBVhJzHSqCisk=YAB9/dash-wv/jitp-linearwm/2402/manifest.mpd
+http://tv365.me/live/8059765630/3322606439/191874.m3u8
 
 #EXTINF:-1 tvg-id="AstroWarna.my" ch-number="132" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://i.imgur.com/JCn7Yd0.png", 132 Astro Warna ( USE VPN SG )
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -5023,7 +5022,7 @@ https://ucdn.starhubgo.com/bpk-tv/AstroWarna/output/manifest.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpEQTNZemd5TmpZdFltTTNPQzAwTXpnMExUazBZMlV0WkROaU5qWXlZV1UxTVRZMSIsIndtb3BpZCI6MzIsImV4cCI6MTY4NTUxNTk4MCwiaWF0IjoxNjg0OTExOTgwfQ.5InzYZB2iGbUPY_exXTmrrC5l_7nn8vxYsc79RVL76A"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ill6WmlaVEEyWXprdFpUZ3daQzAwT1dOaUxUaGtZek10Wm1VeFkySmxaREl6T1dRMSIsIndtb3BpZCI6MzIsImV4cCI6MTY4NTUxNTE4OSwiaWF0IjoxNjg0OTExMTg5fQ.cXkBTdKe-xkVxUNKhSm2mFyh8DT9Fu0JeuL_Z5YidrE"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"JK1H9zyM//xpYdR6pVG4gg", "kid":"G15RVjjeQkO2ukmEPQvnYw" } ], "type":"temporary" }
@@ -5031,7 +5030,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpEQTNZemd5TmpZdFltTTNPQzAwTXpnMExUazBZMlV0WkROaU5qWXlZV1UxTVRZMSIsIndtb3BpZCI6MzIsImV4cCI6MTY4NTUxNTk4MCwiaWF0IjoxNjg0OTExOTgwfQ.5InzYZB2iGbUPY_exXTmrrC5l_7nn8vxYsc79RVL76A"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ill6WmlaVEEyWXprdFpUZ3daQzAwT1dOaUxUaGtZek10Wm1VeFkySmxaREl6T1dRMSIsIndtb3BpZCI6MzIsImV4cCI6MTY4NTUxNTE4OSwiaWF0IjoxNjg0OTExMTg5fQ.cXkBTdKe-xkVxUNKhSm2mFyh8DT9Fu0JeuL_Z5YidrE"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4dQox/HKgjOabPodB1dCjg", "kid":"dIHT43OMRnaPE44gj+6Qdg" } ], "type":"temporary" }
@@ -5039,7 +5038,7 @@ https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd
 https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpEQTNZemd5TmpZdFltTTNPQzAwTXpnMExUazBZMlV0WkROaU5qWXlZV1UxTVRZMSIsIndtb3BpZCI6MzIsImV4cCI6MTY4NTUxNTk4MCwiaWF0IjoxNjg0OTExOTgwfQ.5InzYZB2iGbUPY_exXTmrrC5l_7nn8vxYsc79RVL76A"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ill6WmlaVEEyWXprdFpUZ3daQzAwT1dOaUxUaGtZek10Wm1VeFkySmxaREl6T1dRMSIsIndtb3BpZCI6MzIsImV4cCI6MTY4NTUxNTE4OSwiaWF0IjoxNjg0OTExMTg5fQ.cXkBTdKe-xkVxUNKhSm2mFyh8DT9Fu0JeuL_Z5YidrE"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" } ], "type":"temporary" }
@@ -5047,7 +5046,7 @@ https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
 https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpEQTNZemd5TmpZdFltTTNPQzAwTXpnMExUazBZMlV0WkROaU5qWXlZV1UxTVRZMSIsIndtb3BpZCI6MzIsImV4cCI6MTY4NTUxNTk4MCwiaWF0IjoxNjg0OTExOTgwfQ.5InzYZB2iGbUPY_exXTmrrC5l_7nn8vxYsc79RVL76A"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ill6WmlaVEEyWXprdFpUZ3daQzAwT1dOaUxUaGtZek10Wm1VeFkySmxaREl6T1dRMSIsIndtb3BpZCI6MzIsImV4cCI6MTY4NTUxNTE4OSwiaWF0IjoxNjg0OTExMTg5fQ.cXkBTdKe-xkVxUNKhSm2mFyh8DT9Fu0JeuL_Z5YidrE"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"EQD+KXFG99AktZlE8J5tGg", "kid":"yk9f9ORpTVS9/cm9NDhCkA" } ], "type":"temporary" }
@@ -5105,7 +5104,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 https://tinyurl.com/yck8nndy
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpEQTNZemd5TmpZdFltTTNPQzAwTXpnMExUazBZMlV0WkROaU5qWXlZV1UxTVRZMSIsIndtb3BpZCI6MzIsImV4cCI6MTY4NTUxNTk4MCwiaWF0IjoxNjg0OTExOTgwfQ.5InzYZB2iGbUPY_exXTmrrC5l_7nn8vxYsc79RVL76A"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ill6WmlaVEEyWXprdFpUZ3daQzAwT1dOaUxUaGtZek10Wm1VeFkySmxaREl6T1dRMSIsIndtb3BpZCI6MzIsImV4cCI6MTY4NTUxNTE4OSwiaWF0IjoxNjg0OTExMTg5fQ.cXkBTdKe-xkVxUNKhSm2mFyh8DT9Fu0JeuL_Z5YidrE"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"JK1H9zyM//xpYdR6pVG4gg", "kid":"G15RVjjeQkO2ukmEPQvnYw" } ], "type":"temporary" }
@@ -5114,7 +5113,7 @@ https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpEQTNZemd5TmpZdFltTTNPQzAwTXpnMExUazBZMlV0WkROaU5qWXlZV1UxTVRZMSIsIndtb3BpZCI6MzIsImV4cCI6MTY4NTUxNTk4MCwiaWF0IjoxNjg0OTExOTgwfQ.5InzYZB2iGbUPY_exXTmrrC5l_7nn8vxYsc79RVL76A"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ill6WmlaVEEyWXprdFpUZ3daQzAwT1dOaUxUaGtZek10Wm1VeFkySmxaREl6T1dRMSIsIndtb3BpZCI6MzIsImV4cCI6MTY4NTUxNTE4OSwiaWF0IjoxNjg0OTExMTg5fQ.cXkBTdKe-xkVxUNKhSm2mFyh8DT9Fu0JeuL_Z5YidrE"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4dQox/HKgjOabPodB1dCjg", "kid":"dIHT43OMRnaPE44gj+6Qdg" } ], "type":"temporary" }
@@ -5122,7 +5121,7 @@ https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd
 https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpEQTNZemd5TmpZdFltTTNPQzAwTXpnMExUazBZMlV0WkROaU5qWXlZV1UxTVRZMSIsIndtb3BpZCI6MzIsImV4cCI6MTY4NTUxNTk4MCwiaWF0IjoxNjg0OTExOTgwfQ.5InzYZB2iGbUPY_exXTmrrC5l_7nn8vxYsc79RVL76A"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ill6WmlaVEEyWXprdFpUZ3daQzAwT1dOaUxUaGtZek10Wm1VeFkySmxaREl6T1dRMSIsIndtb3BpZCI6MzIsImV4cCI6MTY4NTUxNTE4OSwiaWF0IjoxNjg0OTExMTg5fQ.cXkBTdKe-xkVxUNKhSm2mFyh8DT9Fu0JeuL_Z5YidrE"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" } ], "type":"temporary" }
@@ -5131,7 +5130,7 @@ https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpEQTNZemd5TmpZdFltTTNPQzAwTXpnMExUazBZMlV0WkROaU5qWXlZV1UxTVRZMSIsIndtb3BpZCI6MzIsImV4cCI6MTY4NTUxNTk4MCwiaWF0IjoxNjg0OTExOTgwfQ.5InzYZB2iGbUPY_exXTmrrC5l_7nn8vxYsc79RVL76A"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ill6WmlaVEEyWXprdFpUZ3daQzAwT1dOaUxUaGtZek10Wm1VeFkySmxaREl6T1dRMSIsIndtb3BpZCI6MzIsImV4cCI6MTY4NTUxNTE4OSwiaWF0IjoxNjg0OTExMTg5fQ.cXkBTdKe-xkVxUNKhSm2mFyh8DT9Fu0JeuL_Z5YidrE"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"EQD+KXFG99AktZlE8J5tGg", "kid":"yk9f9ORpTVS9/cm9NDhCkA" } ], "type":"temporary" }
@@ -5178,6 +5177,150 @@ https://linear07-playback.sooka.my/CH4/masterCH4.mpd
 https://linear07-playback.sooka.my/CH4/masterCH4.mpd
 
 ####################################################################################################################################################################
+
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", 3 Nota Cinta 2022
+http://tv365.me/live/8059765630/3322606439/400524313.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", Demi
+http://tv365.me/live/8059765630/3322606439/400510090.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", Hilang
+http://tv365.me/live/8059765630/3322606439/400511279.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", Juliet
+http://tv365.me/live/8059765630/3322606439/400516779.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", Kuasa
+http://tv365.me/live/8059765630/3322606439/400519834.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", Kudeta
+http://tv365.me/live/8059765630/3322606439/400511280.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", Mek Cha
+http://tv365.me/live/8059765630/3322606439/400517161.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", Remang
+http://tv365.me/live/8059765630/3322606439/400523154.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", Ada Apa Dengan Saka
+http://tv365.me/live/8059765630/3322606439/400578347.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", Anak Beranak Abe Yie
+http://tv365.me/live/8059765630/3322606439/400516800.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", Ash And Aish
+http://tv365.me/live/8059765630/3322606439/400519846.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", Bahagia Bukan Bidaan
+http://tv365.me/live/8059765630/3322606439/400525263.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", Biarkan Ia Pergi
+http://tv365.me/live/8059765630/3322606439/400519546.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", Bicara Cinta
+http://tv365.me/live/8059765630/3322606439/400519518.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", Boboiboy Galaxy
+http://tv365.me/live/8059765630/3322606439/400510965.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", Cinta Buat Dara
+http://tv365.me/live/8059765630/3322606439/400518888.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", Cukup Derita Itu
+http://tv365.me/live/8059765630/3322606439/400524932.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", Dia Bukan Bidadari
+http://tv365.me/live/8059765630/3322606439/400516727.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", Dia Isteriku
+http://tv365.me/live/8059765630/3322606439/400510460.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", Ejen Ali
+http://tv365.me/live/8059765630/3322606439/400510940.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", Gerak Khas Underground
+http://tv365.me/live/8059765630/3322606439/400509988.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", Guard Komando
+http://tv365.me/live/8059765630/3322606439/400523197.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", Hikayat Cinta Si Pematah Hati
+http://tv365.me/live/8059765630/3322606439/400520983.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", Honeymoon
+http://tv365.me/live/8059765630/3322606439/400509389.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", I Can See Your Voice
+http://tv365.me/live/8059765630/3322606439/400524970.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", Imamku Okey
+http://tv365.me/live/8059765630/3322606439/400524437.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", Jaga Aku Selamanya
+http://tv365.me/live/8059765630/3322606439/400578349.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", Jawatankuasa Kampung Kalut
+http://tv365.me/live/8059765630/3322606439/400519827.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", Jodohku Babysister
+http://tv365.me/live/8059765630/3322606439/400519928.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", Julia Arina
+http://tv365.me/live/8059765630/3322606439/400578352.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", Karaoke Superstar
+http://tv365.me/live/8059765630/3322606439/400514527.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", Kau VS Aku
+http://tv365.me/live/8059765630/3322606439/400509462.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", Kekasih Hati Mr Bodyguard
+http://tv365.me/live/8059765630/3322606439/400510063.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", Kisd Nowadays
+http://tv365.me/live/8059765630/3322606439/400514782.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", Kisah Tok Kadi
+http://tv365.me/live/8059765630/3322606439/400516246.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", KL Gengster Underworld
+http://tv365.me/live/8059765630/3322606439/400509368.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", Malaysian Ghost Stories
+http://tv365.me/live/8059765630/3322606439/400524934.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", Manuskrip Cinta
+http://tv365.me/live/8059765630/3322606439/400519835.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", Matahari Cerah Lagi
+http://tv365.me/live/8059765630/3322606439/400521214.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", Misteri Jenazah
+http://tv365.me/live/8059765630/3322606439/400517343.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", Mr. London Ms.Langkawi
+http://tv365.me/live/8059765630/3322606439/400516978.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", Muzikal Lawak Superstar
+http://tv365.me/live/8059765630/3322606439/400524930.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", One Cent Thief
+http://tv365.me/live/8059765630/3322606439/400510827.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", Rahimah Tanpa Rahim
+http://tv365.me/live/8059765630/3322606439/400524479.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", Risik Pada Hati
+http://tv365.me/live/8059765630/3322606439/400518421.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", Sayang Tak Dikenang
+http://tv365.me/live/8059765630/3322606439/400517586.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", Scammer 2
+http://tv365.me/live/8059765630/3322606439/400516829.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", Sebenarnya Saya Isteri Dia
+http://tv365.me/live/8059765630/3322606439/400519943.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", Selamanya Suri Cinta
+http://tv365.me/live/8059765630/3322606439/400516970.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", Sepahtu Reunion Live
+http://tv365.me/live/8059765630/3322606439/400509329.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", She Was Petty
+http://tv365.me/live/8059765630/3322606439/400510865.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", Sweet Dreams
+http://tv365.me/live/8059765630/3322606439/400517275.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", Tak Ada Cinta Sepertimu
+http://tv365.me/live/8059765630/3322606439/400516894.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", Tercipta Satu Ikatan
+http://tv365.me/live/8059765630/3322606439/400578346.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", The Maid
+http://tv365.me/live/8059765630/3322606439/400519211.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", Warung Sepahtu
+http://tv365.me/live/8059765630/3322606439/400524919.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", Wifi Sebelah Rumah
+http://tv365.me/live/8059765630/3322606439/400525002.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", 
+http://tv365.me/live/8059765630/3322606439/4005.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", 
+http://tv365.me/live/8059765630/3322606439/400516829.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", 
+http://tv365.me/live/8059765630/3322606439/400519943.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", 
+http://tv365.me/live/8059765630/3322606439/400516970.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", 
+http://tv365.me/live/8059765630/3322606439/400509329.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", 
+http://tv365.me/live/8059765630/3322606439/400510865.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", 
+http://tv365.me/live/8059765630/3322606439/400517275.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE DRAMA" group-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000", 
+http://tv365.me/live/8059765630/3322606439/400516894.m3u8
+
+
+
+
+
+
+
+
+
+
+####################################################################################################################################################################
+
+
 
 #EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="30 JUZ" group-logo="https://play-lh.googleusercontent.com/GxuWm6OE8_A-7e7x_cpuRFBno31eyefSecsOZCbTn_l6JQTSrSC8QDfQSI0S2K0ALw" tvg-logo="https://4.bp.blogspot.com/-oPhdonr2qug/UPF9fD5Y0LI/AAAAAAAADAs/3cuoQgfds8I/s1600/1402727.jpg", Juzuk 01
 https://ia601804.us.archive.org/11/items/MisharyRasyidPerJuz/Mishary/01.mp3
