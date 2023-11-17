@@ -4,6 +4,15 @@
 
 #EXTM3U billed-msg="COPYRIGHT BY KIKIMUSAMPO"
 
+##############KIKI MUSAMPO#############
+
+#EXTINF:-1 group-title="KIKIMUSAMPO" group-logo="https://ibb.co/WBYdSZW" tvg-id="AstroRia.my" ch-number="104" tvg-name="Astro Ria HD" tvg-logo="https://i.imgur.com/RrIVJJY.png", 104 Astro Ria 1
+http://foctv.xyz:25510/live/%40azamcekman/Ti0NKDy655/1018.
+
+
+#EXTINF:-1 tvg-id="AstroCitra.my" ch-number="108" tvg-name="Astro Citra HD" group-title="KIKIMUSAMPO" tvg-logo="https://i.imgur.com/Vmdbbo5.png",108 Astro Citra 1
+http://foctv.xyz:25510/live/%40azamcekman/Ti0NKDy655/1018.
+
 
 
 ##############RIA WARNA CITRA PRIMA#############
